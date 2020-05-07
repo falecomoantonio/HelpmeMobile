@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Help Desk</string>
+    <string name="app_version">1.0.0</string>
+
+    <!-- ** Tela de Login ** -->
+    <string name="view_auth_label_user">Usuário</string>
+    <string name="view_auth_label_password">Senha</string>
+    <string name="view_auth_button_auth">Autenticar</string>
+    <!-- ******************* -->
+</resources>
